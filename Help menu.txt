@@ -1,0 +1,6 @@
+- Use ↔ arrows to move left and right
+- Use 'w' to unlock weapon; weapon can only be used when the player is in motion so make sure when killing enemies you aren't idly standing with the weapon!
+- Enemies can only approach when you are certain distance from them
+- Enemies retreat when a certain amount of their health has decreased, use this to your advantage! 
+- Use the space bar to jump onto platforms/ over enemies
+- Hearts increase your health so collect them!
